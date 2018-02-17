@@ -1,0 +1,16 @@
+﻿<Gallery NameU= "Mind Map" Name= "Carte mentale" Version= "1.0" Description= "Créer des cartes mentales (représentations graphiques des processus de pensée) pour le brainstorming, la résolution de problèmes, l'analyse rationnelle et le marquage des décisions. ">
+    <Template NameU= "Radial Map" Name= "Carte mentale" Layout= "8" Theme= "1" DarkTheme= "9" Icon= "./radial_map.bmp" Description= "Créer des cartes mentales pour représenter des idées et des concepts. ">
+    </Template>
+
+    <Template NameU= "Right Map" Name= "Carte à sens unique" Layout= "6" Theme= "1" DarkTheme= "9" Icon= "./right_map.bmp" Description= "Créez des cartes mentales avec une mise en page hiérarchique correcte. ">
+    </Template>
+
+    <Template NameU= "Tree Map" Name= "Carte mentale en arbre" Layout= "3" Theme= "1" DarkTheme= "9" Icon= "./tree_map.bmp" Description= "La carte mentale en arbre est idéale pour afficher de grandes quantités d'informations hiérarchiquement structurées. ">
+    </Template>
+
+    <Template NameU= "Org-Chart Map" Name= "Carte mentale en organigramme" Layout= "2" Theme= "202" DarkTheme= "203" Icon= "./org_map.bmp" Description= "La carte mentale en organigramme illustre la structure d'une organisation et les relations et les rangs relatifs de ses parties et positions. ">
+    </Template>
+
+    <Template NameU= "Concept Map" Name= "Carte conceptuelle" Layout= "8" Theme= "302" DarkTheme= "303" Icon= "./concept_map.bmp" Description= "La carte conceptuelle utilise pour organiser et structurer les connaissances. ">
+    </Template>
+</Gallery>

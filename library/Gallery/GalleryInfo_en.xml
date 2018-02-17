@@ -1,0 +1,16 @@
+﻿<Gallery NameU= "Mind Map" Name= "Mind Map" Version= "1.0" Help= "create-mind-map.php" Description= "Create mind maps (graphical representations of thought processes) for brainstorming, problem solving, rational analysis, and decision marking.">
+    <Template NameU= "Radial Map" Name= "Radial Map" Layout= "8" Theme= "1" DarkTheme= "9" Icon= "./radial_map.bmp" Description= "Create mind maps to represent ideas and concepts.">
+    </Template>
+
+    <Template NameU= "Right Map" Name= "Right Map" Layout= "6" Theme= "1" DarkTheme= "9" Icon= "./right_map.bmp" Description= "Create mind maps with right hierarchical layout.">
+    </Template>
+
+    <Template NameU= "Tree Map" Name= "Tree Map" Layout= "3" Theme= "1" DarkTheme= "9" Icon= "./tree_map.bmp" Description= "Tree map is ideal for displaying large amounts of hierarchically structured information.">
+    </Template>
+
+    <Template NameU= "Org-Chart Map" Name= "Org-Chart Map" Layout= "2" Theme= "202" DarkTheme= "203" Icon= "./org_map.bmp" Description= "Organizational chart shows the structure of an organization and the relationships and relative ranks of its parts and positions.">
+    </Template>
+
+    <Template NameU= "Concept Map" Name= "Concept Map" Layout= "8" Theme= "302" DarkTheme= "303" Icon= "./concept_map.bmp" Description= "Concept map uses to organize and structure knowledge.">
+    </Template>
+</Gallery>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Examples>
+    <Gallery NameU="Mind Map">
+        <Template>
+            <Sample Path="./examples/Mind Map/Management/MindMaster Introduction.emmx"/>
+            <Sample Path="./examples/Mind Map/Management/Lesson Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Management/Six Thinking Hats.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Conference.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Family Meeting.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Negotiation.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Annual General Meeting.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Decision Making.emmx"/>
+            <Sample Path="./examples/Mind Map/Management/Analysises for a Book.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Keep a Balanced Diet.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Meeting Minutes.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Enhance Competivitness of Business.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Seminar  Mind Map.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/More Effective at Work.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Protect the Earth.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Reducing Global Warming.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/The 8 Ms (Used in Manufacturing).emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Information Sharing Meeting.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Self Evaluation.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Travel Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Project Management/Case Study.emmx"/>
+            <Sample Path="./examples/Mind Map/Project Management/Project Control.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Goal Setting.emmx"/>
+            <Sample Path="./examples/Mind Map/Project Management/Project Management.emmx"/>
+            <Sample Path="./examples/Mind Map/Project Management/Project Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/PEST Analysis.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Cost-Benefits Analysis.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Market Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Personal SWTO Analysis.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Strategy Planning.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/SWOT Analysis for business.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Training Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/PESTLE Analysis for Business.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Personal CVs.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/New Students Orientation.emmx"/>
+            <Sample Path="./examples/Mind Map/Management/Time Management.emmx"/>
+            <Sample Path="./examples/Mind Map/Project Management/Project Charter.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Job Research.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/DESTEP Analysis.emmx"/>
+            <Sample Path="./examples/Mind Map/Management/Bananced Scorecard.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Presentation.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Monthly Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Event Planning.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Birthday Party.emmx"/>
+            <Sample Path="./examples/Mind Map/Management/Risk Management.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Extraordinary General Meeting.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Informal Meeting.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Negotiation Record.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Building Group Cohension.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/New Hire Orientation.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Plan an Exhibition.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Summer Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Wedding Ceremony.emmx"/>
+            <Sample Path="./examples/Mind Map/Meeting/Weekly Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/5W1H.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Organise a Business Event.emmx"/>
+            <Sample Path="./examples/Mind Map/Problem Solving/Problem Solving.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Life Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Resume.emmx"/>
+            <Sample Path="./examples/Mind Map/Productivity/Writing Process.emmx"/>
+            <Sample Path="./examples/Mind Map/Project Management/Project Status.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Business Plan.emmx"/>
+            <Sample Path="./examples/Mind Map/Strategic Planning/Five Forces Analysis.emmx"/>
+        </Template>
+    </Gallery>
+</Examples>
